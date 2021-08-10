@@ -1,0 +1,15 @@
+.bg-color {
+    background-color: #000C24;
+  }
+  .accent-color, ul>li>.active, ul>li>.active:focus{
+    color: #F44336;
+  }
+  #pp-nav>ul>li>a>span {
+    border: 1px solid #F44336;
+  }
+  body {
+    color: #000C24;
+  }
+  .first-color {
+    color: #928A97;
+  }
