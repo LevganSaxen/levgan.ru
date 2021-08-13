@@ -17,11 +17,11 @@
   height: auto;
 }
 
-$color-box-1 : #0f9bc0;
+$color-box-1 : #F44336;
 $color-box-2 : rgba(34, 65, 154, .8);
-$color-box-3 : #57ccfd;
+$color-box-3 : #F44336;
 $color-box-4 : #e660e3;
-$color-box-5 : #000C24;
+$color-box-5 : #928A97;
 $color-box-6 : #9b1308;
 $color-box-7 : #de8b3e;
 
@@ -34,8 +34,8 @@ $color-box-7 : #de8b3e;
     width: 100%;
     
   .cards {
-      width: 20vh;
-      height: 36vh;
+      width: 250px;
+      height: 300px;
       display: block;
       background-size: cover;
       float: left;
@@ -43,7 +43,7 @@ $color-box-7 : #de8b3e;
       position: relative;
       overflow: hidden;
       background-position: center;
-      margin: 1px;
+      margin: 5px;
   }
   
   .cards--one {

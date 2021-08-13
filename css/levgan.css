@@ -13,7 +13,7 @@
   .first-color {
     color: #928A97;
   }
-  .fa {
+  .icon {
     border: 1px solid #928A97;
     border-radius: 50px;
     font-size: 1.5rem;
@@ -25,7 +25,7 @@
     margin: 0.2rem;
     padding-top: 2px;
   }
-  .fa:hover {
+  .icon:hover {
     background-color: #928A97;
   }
   .circle-text{
