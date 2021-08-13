@@ -13,3 +13,32 @@
   .first-color {
     color: #928A97;
   }
+  .fa {
+    border: 1px solid #928A97;
+    border-radius: 50px;
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: #928A97;
+    width: 2rem;
+    height: 2rem;
+    text-align: center;
+    margin: 0.2rem;
+    padding-top: 2px;
+  }
+  .fa:hover {
+    background-color: #928A97;
+  }
+  .circle-text{
+    color: #fff;
+    position: relative;
+    top: -55px;
+    left: 13px;
+  }
+  .circle {
+    width: 80px;
+    height: 80px;
+    margin: 0.5rem;
+  }
+  .nav-item {
+    margin: 0 15px;
+  }
